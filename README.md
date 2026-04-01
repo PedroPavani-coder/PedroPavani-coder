@@ -13,7 +13,7 @@ I’m deeply focused on **architecture, performance, clean code, and business-dr
 
 <p align="left">
   <a href="https://github.com/PedroPavani-coder">
-    <img src="https://img.shields.io/badge/GitHub-PEDROPAVANI-CODER-181717?style=for-the-badge&logo=github" />
+    <img src="https://img.shields.io/badge/GitHub-PEDROPAVANICODER-181717?style=for-the-badge&logo=github" />
   </a>
 </p>
 
