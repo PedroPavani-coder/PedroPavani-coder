@@ -20,10 +20,12 @@ Construo **APIs escaláveis**, **sistemas de alta performance** e soluções em 
 ## 🧠 O que eu faço
 
 - 🏗️ Sistemas de alta escala em .NET
-- ☁️ Deploy em AWS
-- 🧩 Clean architecture
+- ☁️ Arquitetura e deploy em AWS
+- ⚡ Otimização de performance
+- 🧩 Clean architecture & system design
 - 🔐 APIs seguras & autenticação
 - 💳 Pagamentos, assinaturas & regras de negócio
+- 🤖 Automação & integrações
 
 ---
 
@@ -60,8 +62,8 @@ Construo **APIs escaláveis**, **sistemas de alta performance** e soluções em 
 ## 📊 GitHub Stats
 
 <p align="left">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=PedroPavani-coder&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PedroPavani-coder&layout=compact&theme=tokyonight&hide_border=true" />
+  <img height="170" src="https://github-readme-statspavani.vercel.app/api?username=PedroPavani-coder&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" />
+  <img height="170" src="https://github-readme-statspavani.vercel.app/api/top-langs/?username=PedroPavani-coder&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="left">
