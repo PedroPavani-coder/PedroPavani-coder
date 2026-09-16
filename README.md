@@ -11,6 +11,20 @@
 
 <br>
 
+```
+(●) (●) (●)
+
+STATUS
+Pedro Henrique Pavani — Junior Developer, .NET / AWS
+
+TAGS
+[.NET] [C#] [AWS] [Docker] [PostgreSQL] [Blazor]
+
+REPOS             9 públicos
+STACK PRINCIPAL   C# / .NET   [████████░░] 80%
+CLOUD             AWS · EC2 · S3 · Lambda
+```
+
 Construo **APIs escaláveis** e **sistemas de alta performance** sobre o ecossistema **.NET**, com foco em **arquitetura limpa, performance e regras de negócio bem resolvidas** — publicando tanto na **AWS** quanto no **Azure**.
 
 <br>
